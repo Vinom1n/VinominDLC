@@ -1,3 +1,4 @@
 # VinominDLC
-# contacts:
-# Discord: vinomin1
+** contacts: **
+** discord: vinomin1 **
+** discord: microsoft.su **
