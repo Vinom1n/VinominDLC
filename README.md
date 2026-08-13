@@ -1,2 +1,3 @@
-# VinominDLC
-** VinDev`s project**
+#VinominDLC
+#contacts:
+#Discord: vinomin1
